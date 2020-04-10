@@ -1,2 +1,2 @@
 # Real-Or-Not
-Submission for Kaggle Conteset: https://www.kaggle.com/c/nlp-getting-started
+Submission for Kaggle Contset: https://www.kaggle.com/c/nlp-getting-started
