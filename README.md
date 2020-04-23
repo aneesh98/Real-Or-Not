@@ -8,9 +8,9 @@ Submission for Kaggle Contest: https://www.kaggle.com/c/nlp-getting-started
 ## Results
 * Custom Embedding Layer
 <img src="modelresults_custom.png"></img>
-
+<br>
 * GloVe
 <img src="modelresults_glove.png"></img>
-
+<br>
 * Word2Vec
 <img src="modelresults_word2vec.png"></img>
