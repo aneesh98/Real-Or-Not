@@ -1,2 +1,7 @@
 # Real-Or-Not
-Submission for Kaggle Contset: https://www.kaggle.com/c/nlp-getting-started
+## Following Pre-trained Word Embeddings Used:
+* GloVe
+* Word2Vec
+## Architecture
+## Results
+Submission for Kaggle Contest: https://www.kaggle.com/c/nlp-getting-started
